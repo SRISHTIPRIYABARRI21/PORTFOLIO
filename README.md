@@ -1,4 +1,4 @@
-[![MastHead](Cover.jpg)](portfolio-srishtipriya.onrender.com/)
+[![MastHead](Cover.jpg)](https://portfolio-srishtipriya.onrender.com)
 
 # What’s up, friend?
 
@@ -30,7 +30,7 @@ My core focus lies in devising scalable big data solutions, conducting comprehen
 <br>
 <p align = 'center'>
 Check out my projects and delve into an array of resources. <br><br>
-<a href = "portfolio-srishtipriya.onrender.com/"><img src = 'studying 📖 📖.jpg' height='300' width = '170' style="border-radius: 100%;"></a>
+<a href = "https://portfolio-srishtipriya.onrender.com"><img src = 'studying 📖 📖.jpg' height='300' width = '170' style="border-radius: 100%;"></a>
 </p>
 <br>
 
