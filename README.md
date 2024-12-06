@@ -12,7 +12,7 @@ My technical expertise encompasses a broad spectrum, including DSA, SparkSQL, st
 
 My core focus lies in devising scalable big data solutions, conducting comprehensive exploratory data analysis (EDA), and uncovering actionable insights through data discovery. I warmly invite you to explore my portfolio and provide your valuable feedback on my projects.<br><br>
 
-## My [Projects](portfolio-srishtipriya.onrender.com/) and Skills
+## My [Projects](https://portfolio-srishtipriya.onrender.com) and Skills
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
@@ -29,7 +29,7 @@ My core focus lies in devising scalable big data solutions, conducting comprehen
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 <br>
 <p align = 'center'>
-Check out my projects and delve into an array of resources. <br><br>
+Check out my My Portfolio,projects and delve into an array of resources. <br><br> 
 <a href = "https://portfolio-srishtipriya.onrender.com"><img src = 'studying 📖 📖.jpg' height='300' width = '170' style="border-radius: 100%;"></a>
 </p>
 <br>
