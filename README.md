@@ -30,10 +30,11 @@ My core focus lies in devising scalable big data solutions, conducting comprehen
 <br>
 <p align = 'left'>
 Check out my projects and delve into an array of resources. <br><br> 
-<img src = '2024-09-07T07_40_02.313Z-AIC Innovator Badge.png' height='310' width = '280' style="border-radius: 100%;"> </a>
-</p>
+<img src = '2024-09-07T07_40_02.313Z-AIC Innovator Badge.png' height='315' width = '300' style="border-radius: 100%;"> 
+<p align = 'right'>
+<img src = 'KAGGLE_BADGES.png' height='280' width = '400' style="border-radius: 100%;"> </a>
 <br>
-
+</p>
 # Connect and Collaborate 🚀
 <p align="center">
   <a href = "https://www.instagram.com/_srishtipriya__/profilecard/?igsh=MXE2c291MXV0NDBx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
