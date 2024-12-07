@@ -28,9 +28,9 @@ My core focus lies in devising scalable big data solutions, conducting comprehen
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 <br>
-<p align = 'center'>
+<p align = 'left'>
 Check out my projects and delve into an array of resources. <br><br> 
-<a href = "https://portfolio-srishtipriya.onrender.com"><img src = 'studying 📖 📖.jpg' height='300' width = '170' style="border-radius: 100%;"></a>
+<img src = '2024-09-07T07_40_02.313Z-AIC Innovator Badge.png' height='300' width = '180' style="border-radius: 100%;"></a>
 </p>
 <br>
 
