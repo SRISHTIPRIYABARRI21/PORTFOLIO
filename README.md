@@ -31,8 +31,8 @@ My core focus lies in devising scalable big data solutions, conducting comprehen
 <br>
 <p align='left'>
   Check out my projects and delve into an array of resources. <br><br> 
-  <img src='2024-09-07T07_40_02.313Z-AIC Innovator Badge.png' height='315' width='320' style="border-radius: 100%;">
-  <img src='KAGGLE_BADGES.png' height='280' width='600' style="border-radius: 100%; align: 'right';">
+  <img src='2024-09-07T07_40_02.313Z-AIC Innovator Badge.png' height='330' width='330' style="border-radius: 100%;">
+  <img src='KAGGLE_BADGES.png' height='280' width='651' style="border-radius: 100%; align: 'right';">
 </p>
 
 # Connect and Collaborate 🚀
