@@ -30,7 +30,7 @@ My core focus lies in devising scalable big data solutions, conducting comprehen
 <br>
 <p align = 'left'>
 Check out my projects and delve into an array of resources. <br><br> 
-<img src = '2024-09-07T07_40_02.313Z-AIC Innovator Badge.png' height='300' width = '180' style="border-radius: 100%;"></a>
+<img src = '2024-09-07T07_40_02.313Z-AIC Innovator Badge.png' height='310' width = '280' style="border-radius: 100%;"> </a>
 </p>
 <br>
 
